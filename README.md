@@ -1,4 +1,4 @@
-# Respositorio de mi perfil profesional
+# Repositorio de mi perfil profesional
 
 ## ¿Qué haré en el repositorio?
 
